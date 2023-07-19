@@ -1,5 +1,5 @@
 # 🎾 Robert D. Hart ⛵ 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Straw_hat_icon.svg"/>
 **`Developer`**
 
 From a curious coder to an aspiring software developer, I'm Bobby Hart, a driven individual with a passion for crafting innovative solutions. Armed with a degree in Information Technology and a certificate in Software Development and Cybersecurity, I've led website redesigns, optimized user experiences, and contributed to open-source projects. With expertise in both front-end and back-end development, I'm ready to bring ideas to life.
